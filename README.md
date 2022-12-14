@@ -1,16 +1,4 @@
-# background_remover
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Background remover
+## Background remover : With Flutter and Slazzer API using Getx and Dio
+#### Note : After creating an account in Slazzer get your API key and update it to your code
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/81623956/207511895-43766778-e37e-405c-b0ab-a153831703e6.gif)
